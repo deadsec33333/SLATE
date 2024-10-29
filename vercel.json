@@ -1,7 +1,9 @@
 {
-    "redirects": [
+    "rewrites": [
       {
-        "source": "/home",
-        "destination": "/index.html",
-        "permanent": true
+        "source": "/",
+        "destination": "/popcats-adorable-new-sibling-pickle"
+      }
+    ]
+  }
   
