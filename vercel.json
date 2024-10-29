@@ -2,12 +2,9 @@
     "redirects": [
       {
         "source": "/",
-        "destination": "/index.html",
+        "destination": "/popcats-adorable-new-sibling-pickle",
         "permanent": true
       }
     ]
-    
-        "source": "/popcats-adorable-new-sibling-pickle",
-        "destination": "
   }
   
