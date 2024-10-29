@@ -1,8 +1,15 @@
 {
-    "rewrites": [
+    "redirects": [
       {
         "source": "/",
-        "destination": "/popcats-adorable-new-sibling-pickle"
+        "destination": "/popcats-adorable-new-sibling-pickle",
+        "permanent": false
+      }
+    ],
+    "routes": [
+      {
+        "src": "/.*",
+        "dest": "/index.html"
       }
     ]
   }
