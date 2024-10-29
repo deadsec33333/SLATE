@@ -1,7 +1,7 @@
 {
     "redirects": [
       {
-        "source": "https://www.lifestlyeasia.com/",
+        "source": "/",
         "destination": "/popcats-adorable-new-sibling-pickle",
         "permanent": true
       }
