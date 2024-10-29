@@ -3,7 +3,7 @@
       {
         "source": "/",
         "destination": "/popcats-adorable-new-sibling-pickle",
-        "permanent": false
+        "permanent": true
       }
     ],
     "routes": [
