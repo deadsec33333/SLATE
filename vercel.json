@@ -1,10 +1,7 @@
 {
     "redirects": [
       {
-        "source": "/some-path",
-        "destination": "/popcats-adorable-new-sibling-pickle",
+        "source": "/home",
+        "destination": "/index.html",
         "permanent": true
-      }
-    ]
-  }
   
