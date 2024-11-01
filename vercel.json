@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/popcats-adorable-new-sibling-pom-pom",
+        "destination": "/popcats-adorable-new-sibling-pom-pom.html"
+      }
+    ]
+  }
+  
